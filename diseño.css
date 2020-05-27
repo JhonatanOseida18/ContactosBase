@@ -1,0 +1,16 @@
+
+* 
+{
+    margin: 20px;
+    padding: 2px;
+}
+
+body
+{
+    background-image: url('img/font.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: Arial, Comic Sans MS, "Arial";
+    position: relative;
+}
